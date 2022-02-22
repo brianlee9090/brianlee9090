@@ -7,7 +7,7 @@ Welcome to my page! I'm always making my projects a little better. Take a look!
 - 🔭 I’m currently working on: making my version of Snake more fun mostly!
 - 🌱 I’m currently learning: Python!
 - 💬 You can ask me about: Japanese and Chinese R&B recommendations!
-- 📫 How to reach me: linkedIn.com/brianlee9090
+- 📫 How to reach me: [My LinkedIn](linkedIn.com/brianlee9090)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm trilingual (English/Chinese/Japanese)
 
