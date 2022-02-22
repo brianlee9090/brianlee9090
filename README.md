@@ -9,7 +9,7 @@ Welcome to my page! I'm always making my projects a little better. Take a look!
 - 💬 You can ask me about: Japanese and Chinese R&B recommendations!
 - 📫 How to reach me: [My LinkedIn](linkedIn.com/brianlee9090)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm trilingual (English/Chinese/Japanese)
+- ⚡ Fun fact: I'm a big fan of Magic, the Gathering.
 
 <!--
 **brianlee9090/brianlee9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
